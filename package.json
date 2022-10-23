@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "Stylus test": "stylus Test.styl"
+
+  },
+  "dependencies": {
+    "@yamato-daiwa/frontend": "1.2.0",
+    "stylus": "^0.59.0",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "vite": "^3.1.0"
+  }
+}
